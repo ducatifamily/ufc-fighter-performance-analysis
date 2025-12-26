@@ -18,8 +18,25 @@ This project analyzes UFC fighter performance data to explore relationships betw
 
 ## Tools Used
 - Python (pandas, matplotlib, scikit-learn)
-- Tableau - https://public.tableau.com/shared/57G24W7JZ?:display_count=n&:origin=viz_share_link
+- Tableau
 - Jupyter Notebook
+
+## Repository Structure
+- **01 Project Mgmt**  
+  Project documentation and planning materials.
+
+- **02 Data**  
+  Raw and processed datasets (where allowed), plus data source notes.
+
+- **03 Scripts**  
+  Jupyter notebooks for each task:
+  - `Task6.1Noriega.ipynb` — Exploratory Data Analysis
+  - `Task6.2Noriega.ipynb` — Visualizations
+  - `Task6.3Noriega.ipynb` — Hypothesis Testing
+  - `Task6.4Noriega.ipynb` — Regression Analysis
+
+- **04 Analysis & Visuals**  
+  Exported charts/figures used in the analysis and portfolio slides.
 
 ## Notes
 This project was completed as part of a data analytics portfolio assignment. Some datasets may be excluded due to course data-sharing policies.
