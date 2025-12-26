@@ -18,7 +18,7 @@ This project analyzes UFC fighter performance data to explore relationships betw
 
 ## Tools Used
 - Python (pandas, matplotlib, scikit-learn)
-- Tableau
+- Tableau - https://public.tableau.com/shared/57G24W7JZ?:display_count=n&:origin=viz_share_link
 - Jupyter Notebook
 
 ## Notes
